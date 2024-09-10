@@ -7,7 +7,7 @@ for i=1:220
     data=table(clus_treatment,z_base(:,i),z_follow(:,i),'VariableNames',title);
     writetable(data,['D:\Data_Chen\With_DIDA_all_HC\subtype\treatment\brain\data_forR',num2str(i),'.csv']);
 end
-% run step8_subtype_brain_follow.R
+% run step08_subtype_brain_follow.R
 
 % FDR corrected
 clear;
