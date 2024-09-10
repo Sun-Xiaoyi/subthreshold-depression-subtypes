@@ -48,6 +48,10 @@ Subtyping results of StD participants<br>
 Subtyping results of StD participants who underwent 8 weeks of BLT<br>
 5. Subtype differences in deviation patterns<br>
 - step05_subtype_brain_base.m<br>
+- data/data_results/z_clus1.nii<br>
+Mean deviation map of subtype 1<br>
+- data/data_results/z_clus2.nii<br>
+Mean deviation map of subtype 2<br>
 6. Subtype differences in clinical manifestations<br>
 - step06_subtype_clinic_base.m<br>
 - IBM SPSS Statistics 20 (https://www.ibm.com/spss)
