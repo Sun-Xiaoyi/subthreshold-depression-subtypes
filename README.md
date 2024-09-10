@@ -59,7 +59,7 @@ Mean deviation map of subtype 2<br>
 - step07_1_gene_expression.py<br>
 - abagen 0.1.3 (https://github.com/rmarkello/abagen) <br>
 - step07_2_z_surrogate.py<br>
-- https://brainsmash.readthedocs.io/en/latest/index.html <br>
+- BrainSMASH (https://brainsmash.readthedocs.io/en/latest/index.html) <br>
 - step07_3_corr_gene_deviation.m<br>
 - Metascape (https://metascape.org/gp/index.html#/main/step1) <br>
 - Due to size limitations, the script-relevant files and data can be found at https://pan.bnu.edu.cn/l/w1fD5X <br>
