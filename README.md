@@ -63,6 +63,7 @@ Mean deviation map of subtype 2<br>
 - step07_3_corr_gene_deviation.m<br>
 - Metascape (https://metascape.org/gp/index.html#/main/step1) <br>
 - Due to size limitations, the script-relevant files and data can be found at https://pan.bnu.edu.cn/l/w1fD5X <br>
+- step07_4_gene_specific.m<br>
 8. Subtype differences in treatment response to BLT<br>
 - step08_1_subtype_clinic_follow.m<br>
 - step08_2_subtype_clinic_follow.R<br>
